@@ -1,0 +1,8 @@
+user_input=input("enter your name:")
+print("your name is ",user_input)
+roll_no=input("enter your roll_no:")
+print("your roll no is ",roll_no)
+course=input("enter your course")
+print("your course is ",course)
+dob=input("enter your birthday")
+print("your birthday is ",dob)
